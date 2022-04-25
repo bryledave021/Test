@@ -64,6 +64,7 @@ if __name__ == "__main__":
         ("MAKATI","MUNTINLUPA"),
         ("PASIG","MARIKINA"),
         ("MAKATI", "MARIKINA"),
+        ("MAKATI", "GUADALUPE"),
         ("MARIKINA", "MAKATI"),
         ]
 

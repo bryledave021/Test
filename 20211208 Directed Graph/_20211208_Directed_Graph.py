@@ -61,7 +61,6 @@ if __name__ == "__main__":
         ("PATEROS","PASIG"),
         ("PATEROS","MAKATI"),
         ("MAKATI","PASIG"),
-        ("MAKATI","MUNTINLUPA"),
         ("PASIG","MARIKINA"),
         ("MAKATI", "MARIKINA"),
         ("MARIKINA", "MAKATI"),
